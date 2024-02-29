@@ -1,0 +1,2 @@
+# plantIdentification
+使用TensorFlow、Keras技術對植物病害進行圖像辨識
